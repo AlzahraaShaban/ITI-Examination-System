@@ -40,10 +40,11 @@ Associative tables like Student_Exam_Questions and Exam_Questions efficiently ma
 - Entity Relationship Diagram & Mapping :Draw.io
 
 ##  Team Members:
-- @Fatma Elshihna
-- @Safia Kamal
-- @Salem Gamal
-- @Mostafa Helal
+- @AL-Zahraa Shaban
+- @Rana Ali
+- @Asma Ahmed
+- @Melad Malak
+- @Mohamed Elsayed
 
 ### Get Started:
 Clone the repository and use MS SQL Server to set up the database. Use the provided stored procedures and scripts to begin exploring the system.
